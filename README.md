@@ -1,1 +1,137 @@
 Becoming a world class developer# FirstProject-
+<!DOCTYPE html>
+    <html>
+    <head>
+    <title>Coping with slow internet in Nigeria</title>
+    </head>
+
+<body style="background-color:grey;">
+<h1 style="background-color:green;">Heading</h1>
+<p style="background-color:tomato;">Paragragh</p> 
+<h1>what is your coping mechanism???</h1>
+<hr>
+    <h2>when your internet connection is slow, what do you do?</h2>
+<br>
+    <h3>do you think that slow internet affects the application installment speed?</h3>
+<br>
+    <h4>have you ever throw your laptop or phone to the floor because the connectivity was so slow?<h4>
+<br>
+    <h5>how do you stay calm when you are unably trying</h5>
+<br>
+    <h6>this must sound like  joke, but i just sip my gaddam coffe, lol</6>
+<br>
+    <p>Okay, this tag defines a paragragh</P>
+<br>
+    <p>Coffee, my coping mechanism for slow internet connection</p>
+
+    <h2>HTML links</h2>
+    <p>links are defined with the a tag <a> </p>
+
+    <a href="https://www.totorimi.com"> this link leads you to Totorimi Blog</a>
+
+<h2>HTML images</h2>
+<p>the img tag defines the image</p>
+
+<img scr="iExUpG7nW8AAPcpB.jpg" alt="aesthetics" width="100" height="140">
+
+<h2>The Style Attribute</h2>
+<p>Style attribute is used to add style to an element, such as color</p>
+
+    <p style="color:green;"> Welcome to esspresso</p>
+
+    <h1 style="color:blue;">heading</h1>
+    <p style="color:red;">paragraph</p> 
+    <br>
+    <p>SheDeveloper is normal, not colored</p>
+    <p style="color:purple;">I am purple</p> 
+    <p style="color:yellow;">I am yellow</p>
+    <p style="color:orange;">I am orange</p>
+    <p style="font-size:50px;">I am big</p> 
+<br>
+
+<h1>Text formatting</h1>
+
+    <p><b>this is bold</b></p>
+    <p><i>this is italics</i></p>
+    <p>this is<sub> subscript</sub> and <sup>subsript></sup></p>
+    <br>
+    <p><b>this text is bold</b></p>
+    <p><strong>this text is important</strong></p>
+    <p><em>this text is emphasized</em></p>
+    <p><small>this text is a smaller font</small></p>
+    <p>do not forget to do your <mark>assignment<mark></p>
+    <p>dont forget to <mark>check up<mark> on him</p>
+    <p>my favorite color is <del>red</del>blue</p>
+    <p>my favorite color is <del>red</del> <ins>blue</ins>.</p>
+    <p>This is <sub>subscripted</sub> text.</p>
+    <p>This is <sup>superscripted</sup> text.</p>
+
+
+<h1>Quotations</h1>
+
+<p>Here is a quote from WWF's website:</p>
+
+<blockquote cite="http://www.worldwildweb.org/who/index.html">
+For 50 yeras, WWF has been protecting the future of wild animals.
+<p>The worlds leading conservation organization,
+<q>wwf works in 100 countries is supported by 1.2 million members globally.</q>
+</blockquote>
+
+<br>
+
+<p>Fonts</p>
+
+<h1 style="font-family:courier;">heading in courier</h1>
+<p style="font-family:verdana;">paragragh in verdana font</p>
+
+<p>Text size</p>
+
+<h1 style"font-size:300%;">This is font size heading</h1>
+<p style"font-size:160;">This is a font size paragragh</p>
+
+<!-- this is a comment--> 
+<p>this is a paragragh</p>
+<!-- comments are not displayed in client side -->
+
+<h1 style="background-color:hsl(0, 100%, 0%);">hsl(0, 100%, 0%)</h1>
+<h1 style="background-color:hsl(0, 100%, 25%);">hsl(0, 100%, 25%)</h1>
+<h1 style="background-color:hsl(0, 100%, 50%);">hsl(0, 100%, 50%)</h1>
+<h1 style="background-color:hsl(0, 100%, 75%);">hsl(0, 100%, 75%)</h1>
+<h1 style="background-color:hsl(0, 100%, 90%);">hsl(0, 100%, 90%)</h1>
+<h1 style="background-color:hsl(0, 100%, 100%);">hsl(0, 100%, 100%)</h1>
+
+<br>
+    <h2>An unordered HTML List</h2> 
+    <ul>
+        <li>Coffee</li>
+        <li>tea</li>
+        <li>milk</li>
+
+    <h2>An ordered HTML List</h2>
+    <ol>
+        <li>coffee</li>
+        <li>tea</li>
+        <li>milk</li>
+    </o>
+
+<br>
+
+
+<h2>A Description List</h2>
+
+<dl>
+  <dt>Coffee</dt>
+  <dd>- black hot drink</dd>
+  <dt>Milk</dt>
+  <dd>- white cold drink</dd>
+</dl>
+
+<br>
+
+<div style="border: 1px solid rgb(0, 0, 0)">Hello World</div>
+
+<!--to be continued-->
+
+</body>
+
+</html>
