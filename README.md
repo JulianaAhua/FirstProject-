@@ -1,10 +1,9 @@
 Becoming a world class developer# FirstProject-
 
-<!DOCTYPE html>
-<html>
-    <head>
+    <!DOCTYPE html>
+    <html>
+        <head>
     <title></title>
-    </head>
-<body>
-</body>
-</html>
+        </head>
+    <body></body>
+    </html>
